@@ -65,7 +65,7 @@ I created a combined score by averaging each qualifying player's percentile rank
 
 In the filtered sample used for one analysis, three-point percentage and true shooting percentage had a correlation of approximately 0.708. This indicates a positive linear association in that sample, but it does not establish that one statistic causes the other.
 
-***Three-point shooting and scoring efficiency:** In the filtered sample of 234 players, three-point percentage and true shooting percentage had a Pearson correlation of **0.708**, indicating a strong positive linear association. This does not establish that higher three-point percentage causes higher true shooting percentage.
+**Three-point shooting and scoring efficiency:** In the filtered sample of 234 players, three-point percentage and true shooting percentage had a Pearson correlation of **0.708**, indicating a strong positive linear association. This does not establish that higher three-point percentage causes higher true shooting percentage.
 
 ## Data Validation
 
