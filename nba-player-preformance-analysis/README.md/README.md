@@ -125,5 +125,4 @@ The Python analysis script reads the dataset, analyzes player statistics, and ge
 - Investigate additional relationships among player statistics.
 - Explore regression models to examine statistical associations.
 - Improve data validation and document the data source.
-- Publish the project on GitHub.
 - Expand the analysis to include additional measures of player performance.
