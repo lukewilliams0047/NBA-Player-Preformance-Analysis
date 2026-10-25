@@ -43,18 +43,6 @@ The project includes the following visualizations:
 - `ppg_vs_true_shooting.png` — explores the relationship between scoring volume and true shooting percentage.
 - `three_point_vs_true_shooting.png` — explores the relationship between three-point shooting percentage and true shooting percentage.
 
-### Top 10 Scorers
-
-![Top 10 NBA scorers](visualizations/top_10_scorers.png)
-
-### Three-Point Percentage vs. True Shooting Percentage
-
-![Three-point percentage vs. true shooting percentage](visualizations/three_point_vs_true_shooting.png)
-
-### Points Per Game vs. True Shooting Percentage
-
-![Points per game vs. true shooting percentage](visualizations/ppg_vs_true_shooting.png)
-
 ## Key Findings
 
 ### Scoring Volume and Efficiency
