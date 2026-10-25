@@ -99,11 +99,27 @@ nba-player-preformance-analysis/
 d
 ## Reproducing the Analysis
 
-1. Install Python and the pandas and Matplotlib libraries.
-2. Use the CSV file in the `data/` directory as the source dataset.
-3. Open the SQLite database and run the SQL queries in the `sql/` directory.
-4. Run the Python analysis script in `notebooks/` to reproduce the analyses and visualizations.
+### Requirements
 
+- Python 3
+- pandas
+- Matplotlib
+- SQLite
+
+### Steps
+
+1. Clone or download this repository to your computer.
+2. Install the Python libraries if needed:
+
+   ```bash
+   python3 -m pip install pandas matplotlib
+   ```
+
+3. Open the SQLite database, `nba_stats.db`, using a SQLite-compatible tool such as DB Browser for SQLite.
+4. Open and run the SQL query files in the `sql/` directory.
+5. Run the Python analysis script from the `notebooks/` directory. Make sure the script's relative paths point to the correct dataset and visualization folders.
+
+The Python analysis script reads the dataset, analyzes player statistics, and generates visualizations in the `visualizations/` directory.
 ## Future Improvements
 
 - Investigate additional relationships among player statistics.
